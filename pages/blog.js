@@ -1,5 +1,5 @@
 import Layout from "../components/Layout"
-import Post from "../components/post"
+import Post from "../components/Post"
 import styles from '../styles/grid.module.css'
 
 

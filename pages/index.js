@@ -1,8 +1,8 @@
 import Layout from "../components/Layout"
 import styles from '../styles/grid.module.css'
-import Guitarra from "../components/guitarra"
-import Post from "../components/post"
-import Curso from "../components/curso"
+import Guitarra from "../components/Guitarra"
+import Post from "../components/Post"
+import Curso from "../components/Curso"
 
 
 

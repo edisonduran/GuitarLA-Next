@@ -1,11 +1,9 @@
 import { ResponseCookies } from "next/dist/compiled/@edge-runtime/cookies"
 import Layout from "../components/Layout"
-import Guitarra from "../components/guitarra"
+import Guitarra from "../components/Guitarrauitarra"
 export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:1337'
 import styles from '../styles/grid.module.css'
 
-
-import ListadoGuitarras from "../components/guitarra"
 
 export default function Tienda({ guitarras }) {
 

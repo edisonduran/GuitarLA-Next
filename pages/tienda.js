@@ -1,6 +1,6 @@
 import { ResponseCookies } from "next/dist/compiled/@edge-runtime/cookies"
 import Layout from "../components/Layout"
-import Guitarra from "../components/Guitarrauitarra"
+import Guitarra from "../components/Guitarra"
 export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:1337'
 import styles from '../styles/grid.module.css'
 
